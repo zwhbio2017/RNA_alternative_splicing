@@ -1,1 +1,1 @@
-# RNA_alternative_splicing
+# RNA alternative splicing
