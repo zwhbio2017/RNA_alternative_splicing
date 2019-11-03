@@ -20,4 +20,4 @@
 
 ## Resource
 
-[PPT](https://github.com/zwhbio2017/RNA_alternative_splicing/ "PPT of experience sharing")
+[PPT](https://github.com/zwhbio2017/RNA_alternative_splicing/blob/master/%E5%B1%95%E7%A4%BA.pptx "PPT of experience sharing")
